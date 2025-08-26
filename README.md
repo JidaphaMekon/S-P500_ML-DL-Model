@@ -3,7 +3,7 @@
 # Stock Price Prediction & Direction Analysis
 
 ## Overview
-This project demonstrates stock price prediction using Machine Learning models (Random Forest, XGBoost, LightGBM) and direction classification. The workflow includes:
+This project demonstrates stock price prediction using Machine Learning models (Random Forest, XGBoost, LightGBM, KNN, Decision Tree,LSTM, Transformer) and direction classification. The workflow includes:
 
 1. **Data Preparation**
    - Load historical stock data (Date, Close, High, Low, Volume, Symbol)
