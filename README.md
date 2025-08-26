@@ -1,4 +1,4 @@
-# S-P500_ML-DL-Model-Aj Ann 
+# S-P500_ML-DL-Model-with Aj Ann 
 
 # Stock Price Prediction & Direction Analysis
 
