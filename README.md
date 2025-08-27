@@ -45,6 +45,10 @@ This project demonstrates stock price prediction using Machine Learning models (
 
 ## Installation
 
+
+เติมค่าด้วยวิธี Linear Interpotation
+<img width="968" height="661" alt="image" src="https://github.com/user-attachments/assets/eeb702f8-9b09-4044-b388-52cb497efc5a" />
+
 ```bash
 # Install required packages
 pip install pandas numpy matplotlib scikit-learn xgboost lightgbm
